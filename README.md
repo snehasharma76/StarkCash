@@ -3,7 +3,7 @@
 
 ## Overview
 
-StarkCash is a cutting-edge decentralized application (DApp) built on the StarkNet platform, designed to elevate the privacy and anonymity aspects of cryptocurrency transactions. The technical architecture comprises six crucial functions: deposit, withdraw, contract_balance, get_hash, hasher, and verifier.
+StarkCash is a decentralized application (DApp) built on the StarkNet platform, designed to elevate the privacy and anonymity aspects of cryptocurrency transactions. The technical architecture comprises six crucial functions: deposit, withdraw, contract_balance, get_hash, hasher, and verifier.
 
 ## Key Functions
 
